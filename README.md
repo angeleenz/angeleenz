@@ -1,16 +1,40 @@
-## Hi there 👋
+# Здравствуйте!
 
-<!--
-**angeleenz/angeleenz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Меня зовут **Ангелина**
 
-Here are some ideas to get you started:
+Я - Junior System Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+SQL | BPMN | UML | FSD | ER
+
+──────────────────────────
+
+# Сейчас
+
+• Готовлюсь к стажировке
+• Решаю SQL
+• Пополняю портфолио
+
+──────────────────────────
+
+# Лучший проект
+
+Vacation Module (https://github.com/angeleenz/alfa-personal-vacation-module)
+
+• Functional Requirements
+• BPMN
+• UML
+• ER
+• User Story Map
+
+──────────────────────────
+
+# Стек
+
+SQL • BPMN • UML • Git • draw.io
+
+──────────────────────────
+
+# Контакты
+
+**Telegram:** @anggeleenz
+**Email:** angelinauvarova943@gmail.com
