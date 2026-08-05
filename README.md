@@ -2,7 +2,7 @@
 
 Меня зовут **Ангелина**
 
-Я - Junior System Analyst
+Я - начинающий системный аналитик
 
 SQL | BPMN | UML | FSD | ER
 
